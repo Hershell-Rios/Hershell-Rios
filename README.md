@@ -6,9 +6,6 @@
 <img width="1500" height="500" alt="hershell-rios-banner" src="https://github.com/user-attachments/assets/40076871-080d-4891-99dc-b63170c4a002" />
 
 <p align="center">
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/github/followers/yourusername?style=social">
-</a>
 <a href="www.linkedin.com/in/hershellrh">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin">
 </a>
