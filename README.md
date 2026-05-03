@@ -36,7 +36,8 @@
 
 <h3 align="center">Urban Mobility & Economic Productivity Analysis</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="imagen" width="400"></a>
+<a href="#" target="_blank"><img width="1234" height="638" alt="Prepara y estructura datos con Python" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" /
+></a>
 <p>
 <a href="https://github.com/Hershell-Rios/nombre-del-repo" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
