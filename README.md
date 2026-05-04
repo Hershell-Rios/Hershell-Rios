@@ -58,7 +58,7 @@ Built a clean, structured dataset and applied exploratory analysis to uncover ke
 <a href="#" target="_blank"><img width="1390" height="681" alt="Análisis de embudo y retención para MercadoLibre" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
 </a>
 <p>
-<a href="https://github.com/Hershell-Rios/nombre-del-repo" target="_blank">
+<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
 </a>
