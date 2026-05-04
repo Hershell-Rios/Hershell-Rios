@@ -36,7 +36,7 @@
 <a href="#" target="_blank"><img width="1234" height="638" alt="Prepara y estructura datos con Python" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" /
 ></a>
 <p>
-<a href="https://github.com/Hershell-Rios/nombre-del-repo" target="_blank">
+<a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
 </a>
