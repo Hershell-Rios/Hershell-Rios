@@ -38,7 +38,7 @@
 <p>
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
-</a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
+</a>
 </a>
 </p>
 </p>
@@ -83,7 +83,7 @@ Applied behavioral segmentation and trend analysis to uncover growth drivers and
 
 <h3 align="center">Walmart Sales Executive Summary </h3>
 <div align="center">
-<a href="#" target="_blank"><img width="911" height="557" alt="Resumen Ejecutivo de Ventas Walmart" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
+<a href="#" target="_blank"><img width="911" height="557" alt="Resumen Ejecutivo de Ventas Walmart" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank"/>
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
