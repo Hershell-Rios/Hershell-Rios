@@ -6,7 +6,7 @@
 <img width="1500" height="500" alt="hershell-rios-banner" src="https://github.com/user-attachments/assets/40076871-080d-4891-99dc-b63170c4a002" />
 
 <p align="center">
-<a href="www.linkedin.com/in/hershellrh">
+<a href="https://www.linkedin.com/in/hershellrh/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin">
 </a>
 </p>
@@ -115,7 +115,7 @@ Developed comparative metrics and performance indicators to identify high- and l
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/hershellrh  
+- 💼 LinkedIn: [hershellrh](https://www.linkedin.com/in/hershellrh/) 
 - 📧 Email: hershell.rh@gmail.com 
 
 ---
