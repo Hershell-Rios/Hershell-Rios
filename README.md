@@ -38,7 +38,7 @@
 <p>
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
-</a>
+</a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 </a>
 </p>
 </p>
