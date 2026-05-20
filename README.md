@@ -33,16 +33,13 @@
 
 <h3 align="center">Urban Mobility & Economic Productivity Analysis</h3>
 <div align="center">
-<a href="#" target="_blank"><img width="1234" height="638" alt="Prepara y estructura datos con Python" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" /
->
-  <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
+<a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
+  <img width="1234" height="638" alt="Prepara y estructura datos con Python" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
-</a>
-</p>
 </p>
 Analyzed traffic congestion data to evaluate its impact on economic productivity.
 Built a clean, structured dataset and applied exploratory analysis to uncover key relationships and inefficiencies.  
@@ -57,15 +54,13 @@ Built a clean, structured dataset and applied exploratory analysis to uncover ke
 
 <h3 align="center">Funnel and Retention Analysis for MercadoLibre</h3>
 <div align="center">
-<a href="#" target="_blank"><img width="1390" height="681" alt="Análisis de embudo y retención para MercadoLibre" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
-  <a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
+<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
+  <img width="1390" height="681" alt="Análisis de embudo y retención para MercadoLibre" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
-</a>
-</p>
 </p>
 Analyzed user behavior data to identify opportunities for improving conversion and retention.
 Applied behavioral segmentation and trend analysis to uncover growth drivers and optimization opportunities.  
@@ -86,15 +81,13 @@ Applied behavioral segmentation and trend analysis to uncover growth drivers and
 
 <h3 align="center">Walmart Sales Executive Summary </h3>
 <div align="center">
-<a href="#" target="_blank"><img width="911" height="557" alt="Resumen Ejecutivo de Ventas Walmart" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" >
-  <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
+<a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
+  <img width="911" height="557" alt="Resumen Ejecutivo de Ventas Walmart" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
-</a>
-</p>
 </p>
 Analyzed departmental performance to assess contribution levels across the business.
 Developed comparative metrics and performance indicators to identify high- and low-impact areas and support strategic decisions.  
