@@ -31,10 +31,36 @@
 <tr>
 <td width="50%">
 
+<h3 align="center">ConnectaTel Customer Behavior Analysis</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/connectatel-customer-analysis" target="_blank">
+  <img width="900" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/3a1be89d-fccd-4a6e-969c-5b44bd5c082a" />
+</a>
+
+<p>
+<a href="https://github.com/Hershell-Rios/connectatel-customer-analysis" target="_blank">
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+Analyzed customer behavior and service usage patterns in a telecommunications company.
+Performed data cleaning, exploratory analysis, and customer segmentation to identify behavioral trends and usage differences.
+
+<strong>Impact:</strong> Identified customer usage patterns and behavioral segments, enabling more informed decisions related to retention and service optimization.  
+<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook, EDA
+
+</div>
+
+</td>
+
+<td width="50%">
+
 <h3 align="center">Urban Mobility & Economic Productivity Analysis</h3>
 <div align="center">
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
-  <img width="1234" height="638" alt="Prepara y estructura datos con Python" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
+  <img width="1234" height="638" alt="Urban Mobility Analysis" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
@@ -49,6 +75,14 @@ Built a clean, structured dataset and applied exploratory analysis to uncover ke
 </div>
 
 </td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 
 <td width="50%">
 
@@ -67,22 +101,18 @@ Applied behavioral segmentation and trend analysis to uncover growth drivers and
 
 <strong>Impact:</strong> Identified key drivers of conversion and retention, enabling targeted strategies for user growth and engagement. 
 <strong>Tools:</strong> SQL (PostgreSQL, MySQL), Data Cleaning, Data Analysis
+
+
 </div>
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td width="50%">
 
 <h3 align="center">Walmart Sales Executive Summary </h3>
 <div align="center">
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
-  <img width="911" height="557" alt="Resumen Ejecutivo de Ventas Walmart" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
+  <img width="911" height="557" alt="Walmart Sales Executive Summary" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
 </a>
 <p>
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
@@ -96,6 +126,10 @@ Developed comparative metrics and performance indicators to identify high- and l
 <strong>Tools:</strong> Excel/Google Sheets, Data Analysis, Dashboards
 </div>
 
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
