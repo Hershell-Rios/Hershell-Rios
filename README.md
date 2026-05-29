@@ -35,12 +35,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Hershell-Rios/connectatel-customer-analysis" target="_blank">
+<a href="https://github.com/Hershell-Rios/Analysis_of_a_telecommunications_company" target="_blank">
   <img width="900" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/3a1be89d-fccd-4a6e-969c-5b44bd5c082a" />
 </a>
 
 <p>
-<a href="https://github.com/Hershell-Rios/connectatel-customer-analysis" target="_blank">
+<a href="https://github.com/Hershell-Rios/Analysis_of_a_telecommunications_company" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
 </p>
