@@ -36,7 +36,8 @@
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Analysis_of_a_telecommunications_company" target="_blank">
-  <img width="900" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/3a1be89d-fccd-4a6e-969c-5b44bd5c082a" />
+  <img width="1037" height="304" alt="Identificación de Outliers por Boxplot" src="https://github.com/user-attachments/assets/a1f15f62-42ae-4824-8d33-7a561b8c14b6" />
+
 </a>
 
 <p>
