@@ -37,9 +37,7 @@
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Customer_Behavior_Drivers_Analysis" target="_blank">
-  <img
-    width="735"
-    height="579"
+  <img width="100%"
     alt="NovaRetail Correlation Heatmap"
     src="https://github.com/user-attachments/assets/4937ba31-5f71-4fd3-a8f2-8bd8ebfb9b13"
   />
@@ -68,7 +66,7 @@ Performed exploratory analysis, customer segmentation, and correlation analysis 
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Analysis_of_a_telecommunications_company" target="_blank">
-  <img width="1037" height="304" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/a1f15f62-42ae-4824-8d33-7a561b8c14b6" />
+  <img width="100%" height="304" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/a1f15f62-42ae-4824-8d33-7a561b8c14b6" />
 </a>
 
 <p>
@@ -102,7 +100,7 @@ Performed data cleaning, exploratory analysis, and customer segmentation to iden
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
-  <img width="1234" height="638" alt="Urban Mobility Analysis" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
+  <img width="100%" height="638" alt="Urban Mobility Analysis" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
 </a>
 
 <p>
@@ -128,7 +126,7 @@ Built a clean, structured dataset and applied exploratory analysis to uncover ke
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
-  <img width="1390" height="681" alt="MercadoLibre Funnel Analysis" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
+  <img width="100%" height="681" alt="MercadoLibre Funnel Analysis" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
 </a>
 
 <p>
@@ -162,7 +160,7 @@ Applied behavioral segmentation and trend analysis to uncover growth drivers and
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
-  <img width="911" height="557" alt="Walmart Sales Executive Summary" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
+  <img width="100%" height="557" alt="Walmart Sales Executive Summary" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
 </a>
 
 <p>
