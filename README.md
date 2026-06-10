@@ -17,7 +17,7 @@
 
 - 📊 Data Analyst with a strong background in **Procurement**
 - 🏗️ +10 years of experience in **business operations & construction industry**
-- 🚀 Transitioning into Data Analytics (TripleTen Bootcamp)
+- 🚀 Building a portfolio of end-to-end analytics projects focused on customer behavior, business performance, and decision-making
 - 🎯 Focused on **turning data into business decisions**
 - 🇯🇵 Currently learning Japanese (N4 level)
 
@@ -29,6 +29,38 @@
 
 <table>
 <tr>
+
+<td width="50%">
+
+<h3 align="center">NovaRetail+ Customer Behavior Drivers Analysis</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/Customer_Behavior_Drivers_Analysis" target="_blank">
+  <img
+    width="735"
+    height="579"
+    alt="NovaRetail Correlation Heatmap"
+    src="https://github.com/user-attachments/assets/4937ba31-5f71-4fd3-a8f2-8bd8ebfb9b13"
+  />
+</a>
+
+<p>
+<a href="https://github.com/Hershell-Rios/Customer_Behavior_Drivers_Analysis" target="_blank">
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+Analyzed customer purchasing behavior to identify the factors most strongly associated with annual revenue generation.
+Performed exploratory analysis, customer segmentation, and correlation analysis to uncover key business drivers.
+
+<strong>Impact:</strong> Identified customer behaviors linked to higher revenue generation, supporting customer retention, marketing optimization, and growth strategies.  
+<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook, EDA
+
+</div>
+
+</td>
+
 <td width="50%">
 
 <h3 align="center">ConnectaTel Customer Behavior Analysis</h3>
@@ -36,8 +68,7 @@
 <div align="center">
 
 <a href="https://github.com/Hershell-Rios/Analysis_of_a_telecommunications_company" target="_blank">
-  <img width="1037" height="304" alt="Identificación de Outliers por Boxplot" src="https://github.com/user-attachments/assets/a1f15f62-42ae-4824-8d33-7a561b8c14b6" />
-
+  <img width="1037" height="304" alt="ConnectaTel Customer Analysis" src="https://github.com/user-attachments/assets/a1f15f62-42ae-4824-8d33-7a561b8c14b6" />
 </a>
 
 <p>
@@ -56,23 +87,62 @@ Performed data cleaning, exploratory analysis, and customer segmentation to iden
 
 </td>
 
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
 <td width="50%">
 
 <h3 align="center">Urban Mobility & Economic Productivity Analysis</h3>
+
 <div align="center">
+
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
   <img width="1234" height="638" alt="Urban Mobility Analysis" src="https://github.com/user-attachments/assets/ade8d201-2c59-4ccf-b9ef-a1aadadd255b" />
 </a>
+
 <p>
 <a href="https://github.com/Hershell-Rios/Latin-America-Mobility-Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
 </p>
+
 Analyzed traffic congestion data to evaluate its impact on economic productivity.
-Built a clean, structured dataset and applied exploratory analysis to uncover key relationships and inefficiencies.  
+Built a clean, structured dataset and applied exploratory analysis to uncover key relationships and inefficiencies.
 
 <strong>Impact:</strong> Identified key relationships between congestion and productivity, enabling more informed urban planning decisions.  
-<strong>Tools:</strong> Python (pandas, numpy, matplotlib, seaborn), Jupyter Notebooks, Data Cleaning
+<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebooks, Data Cleaning
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">Funnel and Retention Analysis for MercadoLibre</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
+  <img width="1390" height="681" alt="MercadoLibre Funnel Analysis" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
+</a>
+
+<p>
+<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+Analyzed user behavior data to identify opportunities for improving conversion and retention.
+Applied behavioral segmentation and trend analysis to uncover growth drivers and optimization opportunities.
+
+<strong>Impact:</strong> Identified key drivers of conversion and retention, enabling targeted strategies for user growth and engagement.  
+<strong>Tools:</strong> SQL (PostgreSQL, MySQL), Data Cleaning, Data Analysis
+
 </div>
 
 </td>
@@ -87,44 +157,26 @@ Built a clean, structured dataset and applied exploratory analysis to uncover ke
 
 <td width="50%">
 
-<h3 align="center">Funnel and Retention Analysis for MercadoLibre</h3>
+<h3 align="center">Walmart Sales Executive Summary</h3>
+
 <div align="center">
-<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
-  <img width="1390" height="681" alt="Análisis de embudo y retención para MercadoLibre" src="https://github.com/user-attachments/assets/bfb2f117-0926-4a26-a6eb-9da24c8c74d2" />
-</a>
-<p>
-<a href="https://github.com/Hershell-Rios/Mercadolibre-Conversion-Funnel-Analysis" target="_blank">
-<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
-</a>
-</p>
-Analyzed user behavior data to identify opportunities for improving conversion and retention.
-Applied behavioral segmentation and trend analysis to uncover growth drivers and optimization opportunities.  
 
-<strong>Impact:</strong> Identified key drivers of conversion and retention, enabling targeted strategies for user growth and engagement. 
-<strong>Tools:</strong> SQL (PostgreSQL, MySQL), Data Cleaning, Data Analysis
-
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">Walmart Sales Executive Summary </h3>
-<div align="center">
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
   <img width="911" height="557" alt="Walmart Sales Executive Summary" src="https://github.com/user-attachments/assets/61b94d4b-f03c-4bbb-9083-c87ed39f39f6" />
 </a>
+
 <p>
 <a href="https://github.com/Hershell-Rios/Walmart_Clean_Data_2012" target="_blank">
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 </a>
 </p>
+
 Analyzed departmental performance to assess contribution levels across the business.
-Developed comparative metrics and performance indicators to identify high- and low-impact areas and support strategic decisions.  
+Developed comparative metrics and performance indicators to identify high- and low-impact areas and support strategic decisions.
 
 <strong>Impact:</strong> Identified high- and low-performing departments, enabling better strategic prioritization and revenue optimization.  
-<strong>Tools:</strong> Excel/Google Sheets, Data Analysis, Dashboards
+<strong>Tools:</strong> Excel, Google Sheets, Dashboarding, Business Analysis
+
 </div>
 
 </td>
