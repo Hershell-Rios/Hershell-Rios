@@ -32,6 +32,41 @@
 
 <td width="50%">
 
+<h3 align="center">Landing Experiment: A/B Testing & Statistical Analysis</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/Validating-Business-Hypotheses-with-Statistical-Tests" target="_blank">
+
+
+<img width="100%" height="402" alt="Proyecto 8 Validando hipótesis de negocio con pruebas estadísticas" src="https://github.com/user-attachments/assets/f9cf8259-c32a-4a85-8f6a-d8dfb66424b7" />
+
+</a>
+
+<p>
+
+<a href="https://github.com/Hershell-Rios/Validating-Business-Hypotheses-with-Statistical-Tests" target="_blank">
+
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+Analyzed an A/B experiment to evaluate whether a new landing page improved customer conversion and business performance.
+Applied exploratory analysis and statistical hypothesis testing to validate business decisions.
+
+<strong>Impact:</strong> Validated business hypotheses using statistical evidence, enabling more confident decisions regarding landing page optimization and customer acquisition strategies.<br>
+
+<strong>Tools:</strong> Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+
+</div>
+
+</td>
+
+
+<td width="50%">
+
 <h3 align="center">NovaRetail+ Customer Behavior Drivers Analysis</h3>
 
 <div align="center">
@@ -53,11 +88,19 @@ Analyzed customer purchasing behavior to identify the factors most strongly asso
 Performed exploratory analysis, customer segmentation, and correlation analysis to uncover key business drivers.
 
 <strong>Impact:</strong> Identified customer behaviors linked to higher revenue generation, supporting customer retention, marketing optimization, and growth strategies.  
-<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook, EDA
+<strong>Tools:</strong> Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | EDA
 
 </div>
 
 </td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 
 <td width="50%">
 
@@ -79,19 +122,12 @@ Analyzed customer behavior and service usage patterns in a telecommunications co
 Performed data cleaning, exploratory analysis, and customer segmentation to identify behavioral trends and usage differences.
 
 <strong>Impact:</strong> Identified customer usage patterns and behavioral segments, enabling more informed decisions related to retention and service optimization.  
-<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook, EDA
+<strong>Tools:</strong> Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | EDA
 
 </div>
 
 </td>
 
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 
 <td width="50%">
 
@@ -113,11 +149,19 @@ Analyzed traffic congestion data to evaluate its impact on economic productivity
 Built a clean, structured dataset and applied exploratory analysis to uncover key relationships and inefficiencies.
 
 <strong>Impact:</strong> Identified key relationships between congestion and productivity, enabling more informed urban planning decisions.  
-<strong>Tools:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebooks, Data Cleaning
+<strong>Tools:</strong> Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | EDA
 
 </div>
 
 </td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 
 <td width="50%">
 
@@ -139,19 +183,12 @@ Analyzed user behavior data to identify opportunities for improving conversion a
 Applied behavioral segmentation and trend analysis to uncover growth drivers and optimization opportunities.
 
 <strong>Impact:</strong> Identified key drivers of conversion and retention, enabling targeted strategies for user growth and engagement.  
-<strong>Tools:</strong> SQL (PostgreSQL, MySQL), Data Cleaning, Data Analysis
+<strong>Tools:</strong> SQL | PostgreSQL | MySQL | Data Cleaning | EDA
 
 </div>
 
 </td>
 
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 
 <td width="50%">
 
@@ -173,7 +210,7 @@ Analyzed departmental performance to assess contribution levels across the busin
 Developed comparative metrics and performance indicators to identify high- and low-impact areas and support strategic decisions.
 
 <strong>Impact:</strong> Identified high- and low-performing departments, enabling better strategic prioritization and revenue optimization.  
-<strong>Tools:</strong> Excel, Google Sheets, Dashboarding, Business Analysis
+<strong>Tools:</strong> Excel | Google Sheets | Dashboarding | Business Analysis
 
 </div>
 
@@ -188,13 +225,30 @@ Developed comparative metrics and performance indicators to identify high- and l
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=black">
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=NumPy&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-white?style=for-the-badge&logo=SciPy&logoColor=blue">
+<img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange&color=black">
+<img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </p>
 
 ---
 
-🚀 Currently building a data portfolio focused on business impact, efficiency, and user behavior analysis.
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hershell-Rios&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hershell-Rios&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+🚀 Building an end-to-end Data Analytics portfolio featuring real-world business case studies across retail, telecommunications, e-commerce, and urban mobility.
 
 ---
 
@@ -205,4 +259,8 @@ Developed comparative metrics and performance indicators to identify high- and l
 
 ---
 
-⭐ *Always looking to collaborate on data-driven projects, especially in gaming, tech, and international environments.*
+⭐ Thanks for visiting my portfolio!
+
+I'm always interested in collaborating on data-driven projects and connecting with professionals passionate about analytics, business strategy, and technology.
+
+Feel free to explore my repositories or connect with me on LinkedIn!
