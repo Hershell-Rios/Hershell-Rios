@@ -30,6 +30,53 @@
 <table>
 <tr>
 
+<td colspan="2">
+
+<h2 align="center">🏆 Featured Project</h2>
+
+<h3 align="center">Andes Retail | End-to-End Retail Analytics Dashboard</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/andes-retail-commercial-performance-dashboard" target="_blank">
+
+<img
+width="100%"
+alt="Andes Retail Dashboard"
+src="https://github.com/user-attachments/assets/d3081473-61fd-4cc2-bd76-951b6da01dbe" />
+
+</a>
+
+<p>
+
+<a href="https://github.com/Hershell-Rios/" target="_blank">
+
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+Analyzed retail sales, customer behavior, profitability, and product performance using an end-to-end business intelligence workflow.
+
+Integrated data cleaning, transformation, KPI design, and interactive dashboards to uncover trends across products, customers, regions, and time.
+
+<strong>Impact:</strong> Delivered actionable insights that support inventory optimization, pricing strategies, sales performance monitoring, and executive decision-making.<br>
+
+<strong>Tools:</strong> SQL | Power BI | DAX | Power Query | Excel | Data Modeling | Business Intelligence
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
 <td width="50%">
 
 <h3 align="center">Landing Experiment: A/B Testing & Statistical Analysis</h3>
