@@ -49,7 +49,7 @@ src="https://github.com/user-attachments/assets/d3081473-61fd-4cc2-bd76-951b6da0
 
 <p>
 
-<a href="https://github.com/Hershell-Rios/" target="_blank">
+<a href="https://github.com/Hershell-Rios/andes-retail-commercial-performance-dashboard" target="_blank">
 
 <img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
 
