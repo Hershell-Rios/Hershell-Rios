@@ -32,8 +32,6 @@
 
 <td colspan="2">
 
-<h2 align="center">🏆 Featured Project</h2>
-
 <h3 align="center">Andes Retail | End-to-End Retail Analytics Dashboard</h3>
 
 <div align="center">
