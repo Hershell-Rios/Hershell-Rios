@@ -27,12 +27,52 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 
-<td colspan="2">
+<td width="50%">
 
-<h3 align="center">Andes Retail | End-to-End Retail Analytics Dashboard</h3>
+<h3 align="center">Grupo Andes | Real Estate Market Analysis</h3>
+
+<div align="center">
+
+<a href="https://github.com/Hershell-Rios/Grupo-Andes-Commercial-Performance-Dashboard" target="_blank">
+
+<img
+width="100%"
+alt="Grupo Andes Commercial Performance Dashboard"
+src="https://github.com/user-attachments/assets/c354499c-a975-437b-b37f-0a12b8b2997f" />
+
+</a>
+
+<p>
+
+<a href="https://github.com/Hershell-Rios/Grupo-Andes-Commercial-Performance-Dashboard" target="_blank">
+
+<img src="https://img.shields.io/badge/CODE-Repository-black?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
+
+Analyzed commercial performance to identify business trends, profitability drivers, and performance differences across key business dimensions.
+
+Developed an interactive Business Intelligence dashboard to transform transactional data into clear performance indicators and actionable business insights.
+
+<strong>Impact:</strong> Improved visibility into commercial performance, supporting data-driven analysis and strategic decision-making.<br>
+
+<strong>Tools:</strong> Power BI | DAX | Power Query | Excel | Data Modeling | Business Intelligence
+
+</div>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">Andes Retail | Commercial Performance Dashboard</h3>
 
 <div align="center">
 
@@ -40,7 +80,7 @@
 
 <img
 width="100%"
-alt="Andes Retail Dashboard"
+alt="Andes Retail Commercial Performance Dashboard"
 src="https://github.com/user-attachments/assets/d3081473-61fd-4cc2-bd76-951b6da01dbe" />
 
 </a>
@@ -55,13 +95,13 @@ src="https://github.com/user-attachments/assets/d3081473-61fd-4cc2-bd76-951b6da0
 
 </p>
 
-Analyzed retail sales, customer behavior, profitability, and product performance using an end-to-end business intelligence workflow.
+Analyzed retail sales, customer behavior, profitability, and product performance using an end-to-end Business Intelligence workflow.
 
-Integrated data cleaning, transformation, KPI design, and interactive dashboards to uncover trends across products, customers, regions, and time.
+Integrated data cleaning, transformation, KPI design, data modeling, and interactive dashboards to evaluate commercial performance across countries, customer segments, product categories, and time.
 
-<strong>Impact:</strong> Delivered actionable insights that support inventory optimization, pricing strategies, sales performance monitoring, and executive decision-making.<br>
+<strong>Impact:</strong> Delivered actionable insights to support commercial performance monitoring, profitability analysis, and data-driven executive decision-making.<br>
 
-<strong>Tools:</strong> SQL | Power BI | DAX | Power Query | Excel | Data Modeling | Business Intelligence
+<strong>Tools:</strong> Power BI | DAX | Power Query | Excel | Data Modeling | Business Intelligence
 
 </div>
 
@@ -72,8 +112,10 @@ Integrated data cleaning, transformation, KPI design, and interactive dashboards
 
 <br>
 
+
 <table>
 <tr>
+
 
 <td width="50%">
 
