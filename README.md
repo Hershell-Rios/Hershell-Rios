@@ -321,18 +321,6 @@ Developed comparative metrics and performance indicators to identify high- and l
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hershell-Rios&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hershell-Rios&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 🚀 Building an end-to-end Data Analytics portfolio featuring real-world business case studies across retail, telecommunications, e-commerce, and urban mobility.
 
 ---
