@@ -27,8 +27,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 
@@ -327,9 +325,9 @@ Developed comparative metrics and performance indicators to identify high- and l
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hershell-Rios&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hershell-Rios&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hershell-Rios&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hershell-Rios&layout=compact&theme=github_dark"/>
 
 </p>
 
